@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Main theme colors -->
     <color name="colorPrimary">#6b6967</color>
     <color name="colorPrimaryDark">#6b6967</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="background">#6b6967</color>
+    <color name="background">#2b2a29</color>
+
+    <!-- Button colors -->
+    <color name="buttonBack">#7d7b79</color>
+    <color name="buttonPressed">#a3a09d</color>
+    <color name="buttonBorder">#73706d</color>
+
 </resources>
